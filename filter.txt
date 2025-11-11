@@ -1,0 +1,14 @@
+||yandex.com^$important
+||crazygames.com^$important
+||bobagame.net^$important
+||playhop.com^$important
+||yandex.ru^$important
+||Poki.com^$important
+||freegames.com^$important
+||yyggames.com^$important
+||nointernetgame.com^$important
+||nite.games^$important
+||roblox.com^$important
+||playable.com^$important
+||reddit.com^$important
+||ufreegames.com^$important
