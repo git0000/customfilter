@@ -12,3 +12,10 @@
 ||playable.com^
 ||reddit.com^
 ||ufreegames.com^
+||4399swf.com^$important
+||adfreegames.com^$important
+||4399.com^$important
+||github.io^$important
+||launchdarkly.com^$important
+||luyengame.net^$important
+||blooket.com^$important
