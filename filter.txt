@@ -20,3 +20,4 @@
 ||luyengame.net^$important
 ||blooket.com^$important
 ||poki-cdn.com^$important
+||bloxd.io^$important
