@@ -21,3 +21,4 @@
 ||blooket.com^$important
 ||poki-cdn.com^$important
 ||bloxd.io^$important
+||watchmojo.com^$important
