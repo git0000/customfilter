@@ -33,3 +33,11 @@
 ||playgama.net^$important
 ||unpkg.com^$important
 ||vsgod.win^$important
+||play-games.com^$important
+||yandex.net^$important
+||tubi.video^$important
+||tubitv.com^$important
+||primarygames.com^$important
+||agame.com^$important
+||gamepix.com^$important
+
