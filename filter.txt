@@ -23,3 +23,13 @@
 ||bloxd.io^$important
 ||watchmojo.com^$important
 ||getepic.com^$important
+||bgames.com^$important
+||googlezip.net^$important
+||kevin.games^$important
+||addictinggames.com^$important
+||play.google.com^$important
+||noxgames.com^$important
+||playgama.com^$important
+||playgama.net^$important
+||unpkg.com^$important
+||vsgod.win^$important
