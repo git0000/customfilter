@@ -16,7 +16,6 @@
 ||adfreegames.com^$important
 ||4399.com^$important
 ||github.io^$important
-||launchdarkly.com^$important
 ||luyengame.net^$important
 ||blooket.com^$important
 ||poki-cdn.com^$important
