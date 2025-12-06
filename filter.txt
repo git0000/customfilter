@@ -41,3 +41,5 @@
 ||gamepix.com^$important
 ||dab3games.com^$important
 ||lagged.com^$important
+||playsuikagame.com^$important
+
