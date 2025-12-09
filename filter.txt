@@ -66,3 +66,7 @@
 ||games.kidzsearch.com^$important
 ||simple.game^$important
 ||google.com^$important
+||yahoo.com^$important
+||doodlepopcorn.org^$important
+||buzzforme.com^$important
+||google.com^$important
