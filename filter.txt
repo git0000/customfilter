@@ -56,4 +56,13 @@
 ||insider-gaming.com^$important
 ||game.guide^$important
 ||planetsportz.com^$important
-||macanlaut.live^$important
+||abcya.com^$important
+||doodlepopcorn.org^$important
+||video.search.yahoo.com^$important
+||doodleroad.com^$important
+||gamenora.com^$important
+||culinaryschools.org^$important
+||beebom.com^$important
+||games.kidzsearch.com^$important
+||simple.game^$important
+||google.com^$important
