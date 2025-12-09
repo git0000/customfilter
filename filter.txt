@@ -1,4 +1,3 @@
-||google.com^$important
 ||yandex.com^
 ||crazygames.com^
 ||bobagame.net^
@@ -71,4 +70,8 @@
 ||buzzforme.com^$important
 ||quizfoto.com^$important
 ||masque.com^$important
-||quizfoto.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
