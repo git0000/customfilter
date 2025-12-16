@@ -70,8 +70,8 @@
 ||buzzforme.com^$important
 ||quizfoto.com^$important
 ||masque.com^$important
-||yahoo.com^$important
-||yahoo.com^$important
+||xboxlive.com^$important
+||playfabapi.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
