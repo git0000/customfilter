@@ -75,3 +75,4 @@
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
+||playosmo.com^$important
