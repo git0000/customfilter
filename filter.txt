@@ -76,3 +76,4 @@
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||playosmo.com^$important
+||html-load.com^$important
