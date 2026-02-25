@@ -77,3 +77,5 @@
 ||yahoo.com^$important
 ||playosmo.com^$important
 ||html-load.com^$important
+||scribd.com^$important
+||prodigygame.com^$important
