@@ -77,4 +77,6 @@
 ||html-load.com^$important
 ||scribd.com^$important
 ||prodigygame.com^$important
+||freekidsbooks.org^$important
+||yahoo.com^$important
 ||yahoo.com^$important
