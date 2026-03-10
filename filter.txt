@@ -78,5 +78,13 @@
 ||scribd.com^$important
 ||prodigygame.com^$important
 ||freekidsbooks.org^$important
+||open.video^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
