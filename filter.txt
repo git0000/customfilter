@@ -72,10 +72,9 @@
 ||masque.com^$important
 ||xboxlive.com^$important
 ||playfabapi.com^$important
-||yahoo.com^$important
-||yahoo.com^$important
-||yahoo.com^$important
+||onread.com^$important
 ||playosmo.com^$important
 ||html-load.com^$important
 ||scribd.com^$important
 ||prodigygame.com^$important
+||yahoo.com^$important
