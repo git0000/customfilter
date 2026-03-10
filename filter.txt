@@ -79,10 +79,10 @@
 ||prodigygame.com^$important
 ||freekidsbooks.org^$important
 ||open.video^$important
-||yahoo.com^$important
-||yahoo.com^$important
-||yahoo.com^$important
-||yahoo.com^$important
+||fliphtml5.com^$important
+||mattblatt.com.au^$important
+||yumpu.news^$important
+||yumpu.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
