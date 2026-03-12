@@ -83,6 +83,16 @@
 ||mattblatt.com.au^$important
 ||yumpu.news^$important
 ||yumpu.com^$important
+||anyflip.com^$important
+||ezojs.com^$important
+||publuu.com^$important
+||pubhtml5.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
+||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
