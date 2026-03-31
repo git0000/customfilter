@@ -87,7 +87,7 @@
 ||ezojs.com^$important
 ||publuu.com^$important
 ||pubhtml5.com^$important
-||yahoo.com^$important
+||softbear.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
