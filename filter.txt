@@ -94,7 +94,7 @@
 ||ozgames.io^$important
 ||2v2.io^$important
 ||tsunamis.io^$important
-||yahoo.com^$important
+||yoplay.io^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
