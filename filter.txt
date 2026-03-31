@@ -93,7 +93,7 @@
 ||veck.io^$important
 ||ozgames.io^$important
 ||2v2.io^$important
-||yahoo.com^$important
+||tsunamis.io^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
