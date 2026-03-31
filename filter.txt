@@ -90,7 +90,7 @@
 ||softbear.com^$important
 ||asia-1.poxel.io^$important
 ||poxel.io^$important
-||yahoo.com^$important
+||veck.io^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
