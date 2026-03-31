@@ -92,7 +92,7 @@
 ||poxel.io^$important
 ||veck.io^$important
 ||ozgames.io^$important
-||yahoo.com^$important
+||2v2.io^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
