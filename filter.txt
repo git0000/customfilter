@@ -91,7 +91,7 @@
 ||asia-1.poxel.io^$important
 ||poxel.io^$important
 ||veck.io^$important
-||yahoo.com^$important
+||ozgames.io^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
