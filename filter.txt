@@ -89,7 +89,7 @@
 ||pubhtml5.com^$important
 ||softbear.com^$important
 ||asia-1.poxel.io^$important
-||yahoo.com^$important
+||poxel.io^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
 ||yahoo.com^$important
