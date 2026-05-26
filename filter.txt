@@ -114,7 +114,7 @@
 ||cargames.com^$important
 ||yyggames.com^$important
 ||bestgames.com^$important
-||gametop.com^$important
+||kongregate.com^$important
 ||gametop.com^$important
 ||gametop.com^$important
 ||gametop.com^$important
