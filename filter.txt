@@ -115,7 +115,7 @@
 ||yyggames.com^$important
 ||bestgames.com^$important
 ||kongregate.com^$important
-||gametop.com^$important
+||webtoons.com^$important
 ||gametop.com^$important
 ||gametop.com^$important
 ||gametop.com^$important
