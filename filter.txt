@@ -21,7 +21,6 @@
 ||poki-cdn.com^$important
 ||bloxd.io^$important
 ||watchmojo.com^$important
-||getepic.com^$important
 ||bgames.com^$important
 ||googlezip.net^$important
 ||kevin.games^$important
