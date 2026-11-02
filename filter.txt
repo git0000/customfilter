@@ -116,8 +116,12 @@
 ||kongregate.com^$important
 ||webtoons.com^$important
 ||gametop.com^$important
-||gametop.com^$important
-||gametop.com^$important
-||gametop.com^$important
-||gametop.com^$important
+||readkidz.com^$important
+||getinspired.com^$important
+||readfreecomicsonline.com^$important
+||globalcomix.com^$important
+||archive.com^$important
+||toytheater.com^$important
+||fliphtml5.com^$important
+||batcave.biz^$important
 
